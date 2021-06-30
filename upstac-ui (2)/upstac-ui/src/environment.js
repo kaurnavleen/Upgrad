@@ -9,7 +9,7 @@ if(cloudHosts.includes(hostname)) {
     baseUrl = 'http://ec2-52-73-149-55.compute-1.amazonaws.com:8080';
 
 } else {
-    baseUrl = "http://localhost:8085";
+    baseUrl = "http://localhost:8080";
 }
 
 
